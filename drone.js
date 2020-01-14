@@ -410,5 +410,3 @@ function updateBoundsWithPoint( x, y, z )
 
 shape.pt = pt;
 shape.updateBoundsWithPoint = shape.updateBoundsWithPoint;
-
-
