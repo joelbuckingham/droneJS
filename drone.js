@@ -125,6 +125,7 @@ var motor = config.model.motor;
 var arms = config.model.arms;
 var body = config.model.body;
 var prop = config.model.prop;
+
 /*****************************************/
 /************ QuadBody.js ****************/
 /*****************************************/
@@ -410,3 +411,4 @@ function updateBoundsWithPoint( x, y, z )
 
 shape.pt = pt;
 shape.updateBoundsWithPoint = shape.updateBoundsWithPoint;
+
