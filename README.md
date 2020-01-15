@@ -10,7 +10,7 @@ Goal: Build a robot using JavaScript, that runs JavaScript
 
 
 ## Run Script
-1. **Build single JS file** by running the build.bat (or copy contents of all .js files)
+1. **Build single JS file** by running the build.bat (or copy contents of drone.js)
 2. **Load Shapeways IDE** by going to [http://shapejs.shapeways.com/ide]
 3. **Run Script** Paste the code and click **Generate**
 
